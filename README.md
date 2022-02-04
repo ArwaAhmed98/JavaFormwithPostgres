@@ -4,11 +4,11 @@
 
 ### Prev Button
 
-![snapshot of running project](./screenshots/prev.JPD "when click on prev")
+![snapshot of running project](./screenshots/prev.JPG"when click on prev")
 
 ### Next Button
 
-![snapshot of running project](./screenshots/next.JPD "when click on next")
+![snapshot of running project](./screenshots/next.JPG "when click on next")
 ### Last Button
 
-![snapshot of running project](screenshots/last.JPD "when click on last")
+![snapshot of running project](screenshots/last.JPG "when click on last")
