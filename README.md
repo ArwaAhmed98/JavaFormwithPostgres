@@ -8,7 +8,7 @@
 
 ### Next Button
 
-![snapshot of running project](./screenshots/next.JPG "when click on next")
+![snapshot of running project](./screenshots/next.JPG "when click on Next Button")
 ### Last Button
 
 ![snapshot of running project](screenshots/last.JPG "when click on last")
