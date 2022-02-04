@@ -1,7 +1,7 @@
 #   Hierarchy of Project
 ![snapshot of running project](./screenshots/New.JPG "main idea")
 # JavaFX with Postgres 
-### The project Consists of 2 classes *DB.java* => talking with database and controller.java which is the GUI application that retrieve the data from database using the ResultSet 
+### The project Consists of 2 classes *DB.java*  talking with database and controller.java which is the GUI application that retrieve the data from database using the ResultSet 
 
 
 #  Screenshots for the project
