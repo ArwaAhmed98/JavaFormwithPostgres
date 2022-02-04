@@ -4,7 +4,7 @@
 
 ### Prev Button
 
-![snapshot of running project](./screenshots/prev.JPG"when click on prev")
+![snapshot of running project](./screenshots/prev.JPG "when click on prev")
 
 ### Next Button
 
